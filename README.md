@@ -1,5 +1,7 @@
 # Welcome to the 'Viselitsa'
 
+![foto](1.png)
+
 ## Introduction
 This is Ruby implementation of the classic Viselitsa (Hungman) game
 
