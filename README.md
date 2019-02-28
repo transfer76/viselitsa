@@ -31,18 +31,24 @@ After each unsuccessful attempt to guess the letter, part of the gallows(viselit
 
 3. If your Ruby version 1.9 and lower you need to install gem "unicode_utils"
 
-   ``` $ bundle install ```
+   ``` 
+   $ bundle install
+   ```
 
    See Gemfile
 
 4. To start game
 
-``` $ ruby main.rb```
+``` 
+$ ruby main.rb
+```
 
 ## Adding new words for program
 You can to add new words for program guessing. Open file folder
 
-```/data/words.txt```
+```
+/data/words.txt
+```
 
 and to add any words for next playing
 
