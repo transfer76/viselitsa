@@ -1,7 +1,7 @@
 require 'game'
 
 describe 'Game' do
-  it 'should user wins the game' do
+  it 'user should win the game' do
     game = Game.new('слово')
     expect(game.status).to eq :in_progress
     game.next_step('с')
@@ -12,7 +12,7 @@ describe 'Game' do
     expect(game.status).to eq :won
   end
 
-  it 'should user looses the game' do
+  it 'user should lose the game' do
     game = Game.new('слово')
     game.next_step('а')
     game.next_step('б')
