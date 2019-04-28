@@ -1,6 +1,6 @@
 # Welcome to the 'Viselitsa'
 
-![foto](1.png)
+![foto](2.png)
 
 ## Introduction
 This is Ruby implementation of the classic Viselitsa (Hungman) game
